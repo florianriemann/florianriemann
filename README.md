@@ -6,37 +6,27 @@
 
 ### Blog Posts :
 
-<div id="badges">
+---
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/florian-riemann-68a628200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://mail.google.com/">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.kaggle.com/florian1987">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
+---
 
+### Blog Posts :
+
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
@@ -51,6 +41,25 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### Blog Posts :
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=florianriemann&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -61,6 +70,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
+
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 
